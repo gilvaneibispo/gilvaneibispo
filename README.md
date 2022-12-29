@@ -1,6 +1,5 @@
 ## Oi, eu sou o Gilvanei Bispo, desenvolverdor web full stack!👋🏽
-### Hi there 
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -11,15 +10,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+Aqui algumas das minhas redes
 
-Here are some network
-
-- <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/> [LinkedIn](https://github.com/gilvaneibispo)
-- <img width="15" fill="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg"/> [Site pessoal](https://github.com/gilvaneibispo)
+- <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/> [LinkedIn](https://www.linkedin.com/in/gilvanei-bispo)
+- <img width="15" fill="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg"/> [Site pessoal](https://gilvaneibispo.com.br)
            
-
+Agora um pouco de dados
 <div align="center">
-  <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilvaneibispo&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gilvaneibispo&show_icons=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&theme=radical"/>
 </div>
