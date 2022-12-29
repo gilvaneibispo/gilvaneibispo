@@ -12,6 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+Here are some network
+
+- <img width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/> [LinkedIn](https://github.com/gilvaneibispo)
+- <img width="15" fill="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-plain.svg"/> [Site pessoal](https://github.com/gilvaneibispo)
+           
+
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilvaneibispo&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
