@@ -18,10 +18,12 @@ Aqui algumas das minhas redes
            
 Agora um pouco de dados
 
+<!--
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilvaneibispo&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gilvaneibispo&show_icons=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&theme=radical"/>
 </div>
+-->
 
 <div style="display: inline_block"  align="center"><br>
   <img align="center" alt="Vue" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>&nbsp;&nbsp;
